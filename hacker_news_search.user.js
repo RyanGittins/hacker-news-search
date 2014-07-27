@@ -15,8 +15,5 @@ var selector = document.querySelector('td > table > tbody > tr');
 // Insert a new td between the submit link and the login link
 var cell = selector.insertCell(2);
 
-// The html of the search box to be inserted
-var box = '<span><form method="get" action="//hn.algolia.com/" style="margin:0;"><input style="height:20px;" type="text" name="q" size="16" placeholder="Search"></form></span>';
-
-// Place the search box into the header
-cell.innerHTML = box;
+// Inject the search box html into the header
+cell.innerHTML = '<span><form method="get" action="//hn.algolia.com/" style="margin:0;"><input style="height:20px;" type="text" name="q" size="16" placeholder="Search"></form></span>';
