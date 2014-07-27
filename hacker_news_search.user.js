@@ -2,10 +2,11 @@
 // @name         Hacker News Search
 // @namespace    http://www.ryangittins.com/
 // @author       Ryan Gittins
-// @version      1.0.1
+// @version      1.0.2
 // @description  Adds a simple search box to the top bar of the Hacker News site.
 // @match        *://news.ycombinator.com/*
 // @copyright    2014
+// @grant        none
 // ==/UserScript==
 
 // Grab the top bar
