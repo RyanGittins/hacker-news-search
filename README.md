@@ -15,6 +15,13 @@ suggest improvements, submit a pull request, fork the repo, or drop me a note!
 
 --------------------------------------------------------------------------------
 
-[@RyanGittins](http://twitter.com/RyanGittins)
+You can also view this userscript on:
 
+* [MonkeyGuts](https://monkeyguts.com/code.php?id=326)
+* [OpenUserJS](http://openuserjs.org/scripts/RyanGittins/Hacker_News_Search)
+* [Greasy Fork](https://greasyfork.org/scripts/3374-hacker-news-search)
+
+--------------------------------------------------------------------------------
+
+[@RyanGittins](http://twitter.com/RyanGittins)  
 http://ryangittins.com/
