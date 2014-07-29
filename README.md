@@ -13,5 +13,8 @@ terms in the box and press enter!
 While this script is only three lines of code, please feel free to comment,
 suggest improvements, submit a pull request, fork the repo, or drop me a note!
 
+--------------------------------------------------------------------------------
+
 [@RyanGittins](http://twitter.com/RyanGittins)
+
 http://ryangittins.com/
